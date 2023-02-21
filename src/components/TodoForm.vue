@@ -130,7 +130,7 @@
         flex-direction: column;
         margin-bottom: 10px;
     }
-    .form-group label{font-weight: bold; }
+    .form-group label{font-weight: bold; margin-bottom: 5px;}
     .form-group .form-control{padding: 13.5px 20px; outline: none;}
     .row1{display: flex; justify-content: space-between;}
     .row1>div{flex-basis: 49%;}
